@@ -1,0 +1,12 @@
+{
+  "packs": [
+    {
+      "id": "abdomen002",
+      "title": "腹部CT 002",
+      "subtitle": "無料サンプル教材",
+      "status": "downloadable",
+      "downloadUrl": "https://github.com/hitokamiya09-cmyk/RadAnatomy-Packs/releases/download/v0.1.1/abdomen002.zip",
+      "thumbnail": ""
+    }
+  ]
+}
